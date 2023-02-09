@@ -21,7 +21,8 @@
 
   - Hardware
 <img width="495" alt="Screen Shot 2023-02-09 at 1 08 43 AM" src="https://user-images.githubusercontent.com/113642855/217767287-b40b1393-d763-4491-b694-fb0bd76aab63.png">
-      - Initial protoyping phases to better understand the specs and using two LED lights as visual ques to determine pressure sensor's sensitivity
+    - Initial protoyping phases to better understand the specs and using two LED lights as visual ques to determine pressure sensor's sensitivity
+    
   - Software (Code)
 <img width="252" alt="Screen Shot 2023-02-09 at 1 17 31 AM" src="https://user-images.githubusercontent.com/113642855/217769516-0d44cc5f-d275-4a42-8969-a30f1088ab18.png">
 
@@ -43,7 +44,7 @@
  <img width="421" alt="Screen Shot 2023-02-09 at 1 24 36 AM" src="https://user-images.githubusercontent.com/113642855/217771406-363ed118-7ce9-4038-983d-c34bddc90ad4.png">
     - Drafts
 <img width="471" alt="Screen Shot 2023-02-09 at 1 25 02 AM" src="https://user-images.githubusercontent.com/113642855/217771498-426a745f-dd23-4820-8006-165fd93c4575.png">
-      - Began to crochet a small pouch for the breadboard and battery to rest around the end-users' ankles
+      - Moved devices onto a smaller breadboard for portable reasonings. After doing so, I began to crochet a small pouch for the breadboard and battery to rest around the end-users' ankles
     - Final Product
 <img width="535" alt="Screen Shot 2023-02-09 at 1 25 29 AM" src="https://user-images.githubusercontent.com/113642855/217771608-6f9da642-b74b-4de4-be62-8b0126b2200b.png">
     - Added a button so the flap of pouch can secure the device in place incase end-user's would run or jump
