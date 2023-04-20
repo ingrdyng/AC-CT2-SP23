@@ -19,6 +19,5 @@
     - Code
     - AdaFruit Circuit Playground Express accelorometer code
     - <img width="696" alt="Screen Shot 2023-04-13 at 6 20 23 AM" src="https://user-images.githubusercontent.com/113642855/231771513-0ad800bf-b24f-4747-af6d-a45741d79b38.png">
-    - Portal code
-    - <img width="798" alt="Screen Shot 2023-04-13 at 6 04 40 AM" src="https://user-images.githubusercontent.com/113642855/231771581-4046b6a7-fd86-4676-96eb-6815bd2b9e71.png">
+
 
